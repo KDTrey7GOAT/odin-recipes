@@ -1,2 +1,2 @@
 # odin-recipes
-This is for odin project completion in html section
+This project's objective is to create an html code that is an index with links to recipes in it.
